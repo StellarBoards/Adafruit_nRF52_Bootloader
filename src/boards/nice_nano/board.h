@@ -39,7 +39,7 @@
 #define LED_NEOPIXEL          _PINNUM(0, 6)
 #define NEOPIXELS_NUMBER      6
 #define NEOPIXEL_POWER_PIN    _PINNUM(0, 13)
-#define BOARD_RGB_BRIGHTNESS  0x040404
+//#define BOARD_RGB_BRIGHTNESS  0x040404
 
 
 /*------------------------------------------------------------------*/
