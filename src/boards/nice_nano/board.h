@@ -36,6 +36,12 @@
 #define LED_PRIMARY_PIN   _PINNUM(0, 15) // Blue
 #define LED_STATE_ON      1
 
+#define LED_NEOPIXEL          _PINNUM(0, 6)
+#define NEOPIXELS_NUMBER      6
+#define NEOPIXEL_POWER_PIN    _PINNUM(0, 13)
+#define BOARD_RGB_BRIGHTNESS  0x040404
+
+
 /*------------------------------------------------------------------*/
 /* BUTTON
  *------------------------------------------------------------------*/
@@ -58,7 +64,7 @@
 #define USB_DESC_CDC_ONLY_PID  0x00B3
 
 #define UF2_PRODUCT_NAME  "nice!nano"
-#define UF2_VOLUME_LABEL  "NICENANO"
+#define UF2_VOLUME_LABEL  "Kabarga"
 #define UF2_BOARD_ID      "nRF52840-nicenano"
 #define UF2_INDEX_URL     "https://nicekeyboards.com/docs/nice-nano"
 
