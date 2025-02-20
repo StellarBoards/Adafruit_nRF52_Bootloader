@@ -61,7 +61,7 @@
 #define USB_DESC_CDC_ONLY_PID  0x01B0
 
 #define UF2_PRODUCT_NAME  "Kasasagi"
-#define UF2_VOLUME_LABEL  "KASASAGIBOOT"
+#define UF2_VOLUME_LABEL  "KASASAGI"
 #define UF2_BOARD_ID      "Kasasagi-keyboard"
 #define UF2_INDEX_URL     "https://t.me/Stellarboards"
 
