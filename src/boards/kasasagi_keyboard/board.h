@@ -1,3 +1,4 @@
+#include <stdint.h>
 /*
  * The MIT License (MIT)
  *
