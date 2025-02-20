@@ -56,9 +56,9 @@
 //--------------------------------------------------------------------+
 // USB
 //--------------------------------------------------------------------+
-#define USB_DESC_VID           0xF256
-#define USB_DESC_UF2_PID       0x01B0
-#define USB_DESC_CDC_ONLY_PID  0x01B0
+#define USB_DESC_VID           ((uint32_t)0xF256)
+#define USB_DESC_UF2_PID       ((uint32_t)0x01B0)
+#define USB_DESC_CDC_ONLY_PID  ((uint32_t)0x01B0)
 
 #define UF2_PRODUCT_NAME  "Kasasagi"
 #define UF2_VOLUME_LABEL  "KASASAGI"
